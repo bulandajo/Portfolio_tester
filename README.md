@@ -3,21 +3,24 @@
 ## About me
 
 ## Tools
-- Postman - Testing tool for REST API  
-- Jira, Trello - Issue tracking and project management tools for developers  
+- Postman  
+- Jira, Trello  
 - Github  
+- SQL, MySQL
 - Java (in progress)  
 
-## Tech Skills
+## Tech Skills  
+- Software testing  
 - Creating test cases  
 - Reporting bugs  
 
 ## Courses
-- Software Testing Masterclass (2023) - From Novice to Expert  
-- Java dla Testera (in progress)   
+- Software Testing Masterclass (2023) - From Novice to Expert || Udemy  
+- Introduction to SQL: Data management and querying || Khan Academy  
+- Java dla Testera (in progress)  || AkademiaQA  
 
-## Experience
-- [Colt 1/2023](https://github.com/bulandajo/Postman_Trello_API)
+## My projects
+- [Colt 1/2023](https://github.com/bulandajo/Postman_Trello_API) - Postman collection  
 
 ## Books read
 - The complete Software Tester  
